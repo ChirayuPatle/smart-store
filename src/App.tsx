@@ -106,7 +106,7 @@ function App() {
             </div>
             <div>
               <p className="text-lg font-semibold">Smart Store</p>
-              <p className="text-xs text-zinc-500">Premium electronics</p>
+              <p className="text-xs tegixt-zinc-500">Premium electronics</p>
             </div>
           </div>
 
