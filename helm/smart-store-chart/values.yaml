@@ -8,7 +8,7 @@ image:
   repository: chirayupatle/smart-store
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "ebd3ddb9820b7c874f66a356faf5c3a91068e283"
+  tag: "25b842204fd948249aac73ffc17522628f6eed54"
 
 ingress:
   enabled: false
