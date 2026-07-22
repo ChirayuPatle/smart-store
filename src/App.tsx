@@ -105,7 +105,7 @@ function App() {
               <Sparkles className="h-5 w-5" />
             </div>
             <div>
-              <p className="text-lg font-semibold">TechHub</p>
+              <p className="text-lg font-semibold">Smart Store</p>
               <p className="text-xs text-zinc-500">Premium electronics</p>
             </div>
           </div>
